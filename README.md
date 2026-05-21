@@ -11,4 +11,4 @@ This Python application manages a car dealership, allowing users to add, remove,
 
 ## 👥 Team Contributions & Roles
 - **Orynbassar Khantore (Lead Developer)**: Developed the core OOP design (`models/` package), encapsulation mechanisms, and data persistence modules (`storage/` package).
-- **Partner (QA & UI Developer)**: Managed the main execution flow (`main.py`), user interface loop, validation systems (`utils/`), and structural unit testing.
+- **Surankulov Nurali (QA & UI Developer)**: Managed the main execution flow (`main.py`), user interface loop, validation systems (`utils/`), and structural unit testing.
